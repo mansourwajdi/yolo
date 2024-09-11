@@ -1,0 +1,8 @@
+kpt_shape:
+- 22
+- 3
+names:
+  0: horse
+path: horse10_annotations
+train: train\images
+val: valid\images
